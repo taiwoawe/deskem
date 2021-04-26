@@ -1,0 +1,37 @@
+
+
+
+.header_area .main-menu .navbar .navbar-brand {
+    padding: 0 5rem 0 2rem;
+}
+
+.header_area .main-menu .navbar {
+    padding: 1rem 2rem;
+}
+
+.header_area .main-menu .nav-item .nav-link {
+    font: normal 500 15px/2px var(--roboto);
+    text-transform: uppercase;
+    padding: 1.7rem;
+    color: var(--title-color);
+}
+
+
+
+.carousel .carousel-inner .active{
+ background-image:url('/logo/back.jpg') ;
+  background-color: #cccccc;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.carousel .carousel-inner .middle {
+    background-image: url('/logo/logo2\ \(1\).jpg');
+}
+
+.carousel .carousel-inner .bottom {
+    background-image: url('/logo/logo3.jpg');
+}
